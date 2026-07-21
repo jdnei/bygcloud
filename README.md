@@ -1,12 +1,12 @@
 
 # bygcloud 白月光 专线机场 精品机场 官方地址 (2026年7月21日更新)
-官方地址：[bygcloud.com](https://www.sibker.com/register?code=v0Zmlgbn)     *(注册即刻开启专线加速)*
+官方地址：[bygcloud.com](https://bygcloud.com/register?code=v0Zmlgbn)
 
 ## 简介  
 WhiteMoon（白月光）是一家主打高性能、低延迟的精品专线机场。全节点采用 **IEPL 专线** 传输，屏蔽干扰，提供极致的海外网络加速体验。
 
 ##  邀请码
-`此邀请码注册可优惠购买套餐`
+`此邀请码注册送1天试用套餐（此活动官方随时取消）`
 ```bash
 v0Zmlgbn
 ```
