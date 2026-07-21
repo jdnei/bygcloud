@@ -49,7 +49,7 @@ v0Zmlgbn
 
 ## 🛠️ 快速上手
 
-1. **注册：** 访问 [白月光官网](https://www.sibker.com/register?code=v0Zmlgbn) 注册账号。
+1. **注册：** 访问 [白月光官网](https://bygcloud.com/register?code=v0Zmlgbn) 注册账号。
 2. **选择：** 在“商店”根据您的需求选择套餐，**优惠券请在官网文档中心查看**。
 3. **配置：** 复制订阅链接，导入 Clash, Shadowrocket 或其他 SS 客户端。
 4. **支持：** 官网提供 TG 群服务支持，遇到问题随时反馈。
@@ -65,4 +65,4 @@ v0Zmlgbn
 
 ---
 
-**[立即加入白月光，开启极速之旅](https://www.sibker.com/register?code=v0Zmlgbn)**
+**[立即加入白月光，开启极速之旅](https://bygcloud.com/register?code=v0Zmlgbn)**
