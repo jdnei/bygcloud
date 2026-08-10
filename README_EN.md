@@ -1,72 +1,86 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# bygcloud BaiYueGuang Dedicated-Line Premium VPN Official Address (Updated August 6, 2026)
+# bygcloud White Moonlight Dedicated-Line VPN Premium VPN Official Address (Updated August 10, 2026)
 
-bygcloud BaiYueGuang Dedicated-Line Premium VPN Official Website Address</br>
-Official Address: [bygcloud.com](https://bygcloud.com/register?code=v0Zmlgbn)
+bygcloud White Moonlight Dedicated-Line VPN Premium VPN Official Website Address</br>
+Latest address: [bygcloud.com](https://to.iix.im/byg02)
+Official address: [bygcloud.com](https://to.iix.im/byg01)
+
+Latest Recommended VPN Services and Node Sharing for 2026: https://github.com/jdnei/JiChangTuiJian</br>
+
+## Telegram VPN Benefits Hub #AD
+
+[VPN Giveaway Group](https://331024.de/archives/choujiang)｜[VPN Chat Group](https://331024.de/archives/choujiang)｜[VPN Trial Group](https://331024.de/archives/choujiang)</br>
+
+https://331024.de/archives/choujiang
 
 ## Introduction
 
-bygcloud (BaiYueGuang) is a premium dedicated-line VPN service focused on high performance and low latency. All nodes use **IEPL dedicated lines** for transmission, reducing interference and providing an exceptional overseas network acceleration experience.
+bygcloud（White Moonlight）is a premium dedicated-line VPN service focused on high performance and low latency. All nodes use **IEPL dedicated lines** for transmission, avoiding network interference and delivering an outstanding overseas network acceleration experience.
 
 ## Invitation Code
 
-`Register with this invitation code to receive a 1-day trial plan (this promotion may be canceled by the provider at any time)`
+`Register with this invitation code to receive a 1-day trial plan（this promotion may be canceled by the provider at any time）`
 
 ```bash
 v0Zmlgbn
 ```
 
-## Features
+## Promo Code/Discount Code
 
-* **Premium Dedicated Lines:** Uses **IEPL dedicated-line** access with extremely low latency, bypassing the public internet for exceptionally high stability.
+`Get 5% off with semiannual payment, promo code: BYG05OFFHA; 10% off with annual payment, promo code: BYG10OFFAN; 15% off with two-year payment, promo code: BYG15OFFTY（these discounts may be canceled by the provider at any time）`
+
+```bash
+BYG05OFFHA
+```
+
+```bash
+BYG10OFFAN
+```
+
+```bash
+BYG15OFFTY
+```
+
+## Advantages
+
+* **Premium Dedicated Lines:** Uses **IEPL dedicated-line** access with extremely low latency, bypassing the public internet for excellent stability.
 * **Global Nodes:** Covers 70+ countries and regions worldwide, including popular routes in Hong Kong, Japan, Singapore, the United States, Taiwan, and more.
-* **Full Streaming Unlocking:** Fully supports Netflix, Hulu, HBO, Disney+, DAZN, TikTok, ChatGPT, and more.
-* **Device Support:** All plans support **5 devices** online simultaneously.
+* **Full Streaming Unlock:** Fully supports Netflix, Hulu, HBO, Disney+, DAZN, TikTok, ChatGPT, and more.
+* **Device Support:** All plans support up to **5 devices** online simultaneously.
 * **Universal Protocol:** Uses the standard **SS (Shadowsocks)** protocol and is compatible with all major third-party clients.
 
----
+## Plans
 
-## 💰 Subscription Plan Overview
+| Plan                                       | Price          | Data                        | Devices    | Billing Cycle                                                             | Nodes/Routes                                                      | Protocol/Unlocking                                            |
+| ------------------------------------------ | -------------- | --------------------------- | ---------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------- |
+| Small Package                              | ¥66/quarter    | 100GB/month                 | 5 devices  | Quarterly, with 5% off semiannual/10% off annual/15% off two-year payment | 76+ countries/regions worldwide, 105+ nodes, IEPL dedicated lines | Shadowsocks, supports Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
+| Medium Package Recommended                 | ¥126/quarter   | 250GB/month                 | 5 devices  | Quarterly, with 5% off semiannual/10% off annual/15% off two-year payment | 76+ countries/regions worldwide, 105+ nodes, IEPL dedicated lines | Shadowsocks, supports Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
+| Large Package                              | ¥156/quarter   | 400GB/month                 | 5 devices  | Quarterly, with 5% off semiannual/10% off annual/15% off two-year payment | 76+ countries/regions worldwide, 105+ nodes, IEPL dedicated lines | Shadowsocks, supports Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
+| Extra-Large Package                        | ¥216/quarter   | 750GB/month                 | 5 devices  | Quarterly, with 5% off semiannual/10% off annual/15% off two-year payment | 76+ countries/regions worldwide, 105+ nodes, IEPL dedicated lines | Shadowsocks, supports Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
+| Money Is No Object                         | ¥231/quarter   | 900GB/month                 | 5 devices  | Quarterly, with 5% off semiannual/10% off annual/15% off two-year payment | 76+ countries/regions worldwide, 105+ nodes, IEPL dedicated lines | Shadowsocks, supports Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
+| Flagship Package                           | ¥2500/year     | 2500GB/month                | 10 devices | Annual                                                                    | 76+ countries/regions worldwide, 105+ nodes, IEPL dedicated lines | Shadowsocks, supports Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
+| ①Data Package(Can Be Purchased Separately) | ¥250/two years | 500GB total over two years  | 5 devices  | Valid for two years, immediately resets upon renewal/repurchase           | 76+ countries/regions worldwide, 105+ nodes, IEPL dedicated lines | Shadowsocks, supports Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
+| ②Data Package(Can Be Purchased Separately) | ¥400/two years | 1000GB total over two years | 5 devices  | Valid for two years, immediately resets upon renewal/repurchase           | 76+ countries/regions worldwide, 105+ nodes, IEPL dedicated lines | Shadowsocks, supports Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
 
-> **Traffic Rules:** Regular plans reset traffic on the monthly order date by default. Unused traffic from the current month does not roll over to the next month.
+## 📊 Real-World Performance Tests and Analysis
 
-### 📅 Regular Plans (Quarterly / Annual)
+#### 1.1 China Unicom Evening Peak Speed Test
 
-| Plan Name               | Monthly Traffic | Quarterly Price | Annual Price | Average Monthly Cost on Annual Plan |
-| :---------------------- | :-------------- | :-------------- | :----------- | :---------------------------------- |
-| **Small Package**       | 100GB           | ￥66             | ￥264         | **￥20/month**                       |
-| **Medium Package**      | 250GB           | ￥126            | ￥504         | **￥38/month**                       |
-| **Large Package**       | 400GB           | ￥156            | ￥624         | **￥47/month**                       |
-| **Extra-Large Package** | 750GB           | ￥216            | ￥864         | **￥65/month**                       |
-| **No Budget Limit**     | 900GB           | ￥231            | ￥924         | **￥69/month**                       |
-| **Flagship Package**    | 2500GB          | -               | ￥2500        | **￥187/month**                      |
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/342740975lt.jpg?raw=ture)</br>
 
-### 📦 Two-Year Long-Term Traffic Packages (Can Be Purchased Separately)
+#### 1.2 China Telecom Evening Peak Speed Test
 
-*Suitable for users with very low traffic requirements or as a backup. Traffic remains valid for two years and does not reset monthly.*
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/3405749752434985dx.jpg?raw=ture)</br>
 
-| Name                  | Price | Total Traffic | Validity  | Node Coverage           |
-| :-------------------- | :---- | :------------ | :-------- | :---------------------- |
-| **① Traffic Package** | ￥250  | 500GB         | Two Years | Access to 30+ countries |
-| **② Traffic Package** | ￥400  | 1000GB        | Two Years | Access to 50+ countries |
+#### 1.3 China Mobile Evening Peak Speed Test
 
----
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/49822-345-923yd.png?raw=ture)</br>
 
-## 🛠️ Quick Start
+#### 2. Streaming Unlock Report
 
-1. **Register:** Visit the [BaiYueGuang Official Website](https://bygcloud.com/register?code=v0Zmlgbn) to create an account.
-2. **Choose:** Select a plan in the “Store” according to your needs. **Please check the official website documentation center for coupons**.
-3. **Configure:** Copy the subscription link and import it into Clash, Shadowrocket, or another SS client.
-4. **Support:** The official website provides TG group support. You can report issues at any time.
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/032840218430test.png?raw=ture)</br>
 
-## ⚠️ Purchase Notice
+#### 3. Exit Endpoint Analysis
 
-* ❌ **Refund Policy:** Products on this website are non-refundable. Please start with a small trial purchase.
-* ❌ **Regional Restriction:** Users in **Xinjiang** are currently not supported. Please do not purchase.
-* ❌ **Broadband Restriction:** It is recommended to use broadband from the three major carriers (China Telecom/China Unicom/China Mobile). Stability on secondary broadband providers is not guaranteed.
-* 🔄 **Reset Notice:** Renewing or repurchasing a traffic package will immediately reset the current traffic.
-
----
-
-**[Join BaiYueGuang Now and Start Your High-Speed Journey](https://bygcloud.com/register?code=v0Zmlgbn)**
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/349852043985ana.png?raw=ture)</br>
