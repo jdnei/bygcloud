@@ -52,12 +52,12 @@ BYG15OFFTY
 | ②流量包(可单独购买) | ¥400/两年 | 两年共1000GB | 5台  | 两年有效，续费重购立即重置           | 全球76+国家/地区，105+节点，IEPL专线 | Shadowsocks，支持Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
 ## 📊 性能实测与分析  
 #### 1.1联通晚高峰测速表现  
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/342740975lt.jpg?raw=ture)</br>
 #### 1.2电信晚高峰测速表现  
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/3405749752434985dx.jpg?raw=ture)</br>
 #### 1.3移动晚高峰测速表现  
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/49822-345-923yd.png?raw=ture)</br>
 #### 2.流媒体解锁报告  
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/032840218430test.png?raw=ture)</br>
 #### 3.落地入口分析  
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/349852043985ana.png?raw=ture)</br>
