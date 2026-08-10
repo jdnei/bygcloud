@@ -3,7 +3,7 @@
 
 # bygcloud 白月光 专线机场 精品机场 官方地址 (2026年8月11日更新)
 bygcloud 白月光 专线机场 精品机场 官网地址</br>
-最新地址：[bygcloud.com](https://to.iix.im/byg02)</br>
+最新地址：[bygcloud.com](https://to.iix.im/byg02)（关闭代理软件访问）</br>
 官方地址：[bygcloud.com](https://to.iix.im/byg01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
