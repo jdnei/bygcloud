@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# bygcloud 白月光 专线机场 精品机场 官方地址 (2026年8月29日更新)
+# bygcloud 白月光 专线机场 精品机场 官方地址 (2026年8月30日更新)
 bygcloud 白月光 专线机场 精品机场 官网地址</br>
 最新地址01：[bygcloud.com](https://to.iix.im/byg03)（关闭代理软件访问）</br>
 最新地址02：[bygcloud.com](https://to.iix.im/byg02)</br>
