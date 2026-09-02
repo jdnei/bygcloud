@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# bygcloud White Moonlight Dedicated-Line VPN Premium VPN Official Address (Updated September 1, 2026)
+# bygcloud White Moonlight Dedicated-Line VPN Premium VPN Official Address (Updated September 2, 2026)
 
 bygcloud White Moonlight Dedicated-Line VPN Premium VPN Official Website Address</br>
 Latest address: [bygcloud.com](https://to.iix.im/byg02)</br>
