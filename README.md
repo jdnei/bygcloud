@@ -51,6 +51,10 @@ BYG15OFFTY
 | 旗舰包         | ¥2500/年 | 每月2500GB  | 10台 | 年付                      | 全球76+国家/地区，105+节点，IEPL专线 | Shadowsocks，支持Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
 | ①流量包(可单独购买) | ¥250/两年 | 两年共500GB  | 5台  | 两年有效，续费重购立即重置           | 全球76+国家/地区，105+节点，IEPL专线 | Shadowsocks，支持Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
 | ②流量包(可单独购买) | ¥400/两年 | 两年共1000GB | 5台  | 两年有效，续费重购立即重置           | 全球76+国家/地区，105+节点，IEPL专线 | Shadowsocks，支持Netflix/Hulu/HBO/Disney+/TikTok/ChatGPT |
+
+## 闲时0.2倍节点
+![image](https://github.com/jdnei/bygcloud/blob/main/byg/9048532094859020.2.jpg?raw=ture)</br>
+
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
 ![image](https://github.com/jdnei/bygcloud/blob/main/byg/403572094570speed.png?raw=ture)</br>
